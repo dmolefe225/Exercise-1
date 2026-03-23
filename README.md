@@ -1,2 +1,2 @@
-# Exercises
+# Course Exercises
 
